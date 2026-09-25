@@ -1,0 +1,9 @@
+{
+  "name": "Bullrun",
+  "short_name": "Bullrun",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8ecf5",
+  "theme_color": "#e8ecf5",
+  "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
